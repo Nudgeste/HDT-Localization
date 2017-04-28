@@ -160,88 +160,88 @@
     <value>Modifica tag</value>
   </data>
   <data name="MainWindow_Menu_Deck_QuickSetTag" xml:space="preserve">
-    <value>_Quick set tag</value>
+    <value>Tag veloce</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToArena" xml:space="preserve">
-    <value>Move to arena</value>
+    <value>Sposta in arena</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToContrstucted" xml:space="preserve">
-    <value>Move to constructed</value>
+    <value>Sposta nella collezione</value>
   </data>
   <data name="MainWindow_Menu_Deck_MissingCards" xml:space="preserve">
-    <value>Show _missing cards</value>
+    <value>Mostra le carte mancanti</value>
   </data>
   <data name="MainWindow_Menu_Deck_UpdateWeb" xml:space="preserve">
-    <value>_Update (web)</value>
+    <value>Update (web)</value>
   </data>
   <data name="MainWindow_Menu_Deck_OpenWebsite" xml:space="preserve">
-    <value>Open _website</value>
+    <value>Apri sito</value>
   </data>
   <data name="MainWindow_Menu_Deck_OpenHearthStats" xml:space="preserve">
-    <value>Open HearthStats</value>
+    <value>Apri HearthStats</value>
   </data>
   <data name="MainWindow_Menu_Deck_Archive" xml:space="preserve">
-    <value>_Archive</value>
+    <value>Archivia</value>
   </data>
   <data name="MainWindow_Menu_Deck_Unarchive" xml:space="preserve">
-    <value>Unarchive</value>
+    <value>Togli</value>
   </data>
   <data name="MainWindow_Menu_Deck_DeleteDeck" xml:space="preserve">
-    <value>_Delete</value>
+    <value>Elimina</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone" xml:space="preserve">
-    <value>Clone</value>
+    <value>Clona</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone_EntireDeck" xml:space="preserve">
-    <value>Entire deck</value>
+    <value>Mazzo intero</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone_Version" xml:space="preserve">
-    <value>Selected version</value>
+    <value>Versione selezionata</value>
   </data>
   <data name="MainWindow_Menu_Deck" xml:space="preserve">
-    <value>Deck</value>
+    <value>Mazzo</value>
   </data>
   <data name="MainWindow_Menu_Import" xml:space="preserve">
-    <value>_Import</value>
+    <value>Importa</value>
   </data>
   <data name="MainWindow_Menu_Import_Web" xml:space="preserve">
-    <value>From _web</value>
+    <value>Da web</value>
   </data>
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
-    <value>From _Constructed</value>
+    <value>Dalla collezione</value>
   </data>
   <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
-    <value>From _Arena</value>
+    <value>Da Arena</value>
   </data>
   <data name="MainWindow_Menu_Import_Brawl" xml:space="preserve">
-    <value>From _Tavern Brawl</value>
+    <value>Da Rissa</value>
   </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
-    <value>Other</value>
+    <value>Altro</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_File" xml:space="preserve">
-    <value>From file</value>
+    <value>Da file</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Ids" xml:space="preserve">
-    <value>From ids</value>
+    <value>Da id</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Clipboard" xml:space="preserve">
-    <value>From clipboard</value>
+    <value>Da clipboard</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_LastGame" xml:space="preserve">
-    <value>From last game</value>
+    <value>Dall'ultima partita</value>
   </data>
   <data name="MainWindow_Menu_Export" xml:space="preserve">
-    <value>E_xport</value>
+    <value>Esporta</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone" xml:space="preserve">
-    <value>To _Hearthstone</value>
+    <value>A Hearthstone</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone_FromWeb" xml:space="preserve">
-    <value>To Hearthstone from _Web</value>
+    <value>A Hearthstone da web</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>Save as _Xml</value>
+    <value>Salva come Xml</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
     <value>Copy IDs to _clipboard</value>
