@@ -514,235 +514,235 @@
     <value>Esporta</value>
   </data>
   <data name="Options_Tracker_Importing_Header" xml:space="preserve">
-    <value>Importing</value>
+    <value>Importazione</value>
   </data>
   <data name="Options_Tracker_Notifications_Header" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Notifiche</value>
   </data>
   <data name="Options_Tracker_Plugins_Header" xml:space="preserve">
-    <value>Plugins</value>
+    <value>Plugin</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Header" xml:space="preserve">
-    <value>Hotkeys</value>
+    <value>Hotkey</value>
   </data>
   <data name="Options_Tracker_Backups_Header" xml:space="preserve">
-    <value>Backups</value>
+    <value>Backup</value>
   </data>
   <data name="Options_Tracker_Appearance_Header" xml:space="preserve">
-    <value>Appearance</value>
+    <value>Aspetto</value>
   </data>
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
-    <value>Settings</value>
+    <value>Opzioni</value>
   </data>
   <data name="Options_Tracker_Logging_Header" xml:space="preserve">
-    <value>Logging</value>
+    <value>Log in corso</value>
   </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
-    <value>Checkbox name/description...</value>
+    <value>Checkbox nome/descrizione...</value>
   </data>
   <data name="Options_Search_SearchButton" xml:space="preserve">
-    <value>Search</value>
+    <value>Cerca</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
-    <value>Player</value>
+    <value>Giocatore</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Opponent" xml:space="preserve">
-    <value>Opponent</value>
+    <value>Avversario</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Topmost" xml:space="preserve">
-    <value>Topmost</value>
+    <value>I top</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
-    <value>Only if HS in foreground</value>
+    <value>Solo se HS è attivo</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Card tooltips</value>
+    <value>Info carte</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Timer" xml:space="preserve">
-    <value>Timer</value>
+    <value>Tempo</value>
   </data>
   <data name="Options_DeckWindows_Label_Background" xml:space="preserve">
-    <value>Background:</value>
+    <value>Sfondo:</value>
   </data>
   <data name="Options_DeckWindows_Label_CustomHex" xml:space="preserve">
-    <value>Custom hex:</value>
+    <value>Personalizzato:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCompletely" xml:space="preserve">
-    <value>Hide (completely)</value>
+    <value>Nascondi (completamente)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInMenu" xml:space="preserve">
-    <value>Hide in menu</value>
+    <value>Nascondi nel menu</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInSpectator" xml:space="preserve">
-    <value>Hide in spectator</value>
+    <value>Nascondi in spettatore</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInBackground" xml:space="preserve">
-    <value>Hide if HS in background</value>
+    <value>Nascondi se HS è in background</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideDecks" xml:space="preserve">
-    <value>Hide decks</value>
+    <value>Nascondi mazzi</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideTimers" xml:space="preserve">
-    <value>Hide timers</value>
+    <value>Nascondi timer</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardAge" xml:space="preserve">
-    <value>Hide card-age</value>
+    <value>Nascondi età carte</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardMarks" xml:space="preserve">
-    <value>Hide card-marks</value>
+    <value>Nascondi marcatura card</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideSecrets" xml:space="preserve">
-    <value>Hide secrets</value>
+    <value>Nascondi segreti</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Card tooltips</value>
+    <value>Aiuti carta</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SecretsOnly" xml:space="preserve">
-    <value>For secrets only</value>
+    <value>Solo per segreti</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_AdditionalCardTooltips" xml:space="preserve">
-    <value>Additional card tooltips</value>
+    <value>Info carta aggiuntive</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
-    <value>Use card animations</value>
+    <value>Usa animazione carta</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
-    <value>Card mark tooltips</value>
+    <value>Aiuti marcatura carte</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
-    <value>Automatically gray out secrets</value>
+    <value>Disabilita automaticamente i segreti</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
-    <value>Don't reset decks after a game</value>
+    <value>Non resettare i mazzi dopo la partita</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_GoldProgress" xml:space="preserve">
-    <value>Gold progress always visible (in menu)</value>
+    <value>Prograsso oro sempre visibile (in menu)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
-    <value>Show card flavor text on mouseover (board/hand)</value>
+    <value>Mostra testo delle carte su mouseover (tavolo/mano)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
-    <value>Show battery status</value>
+    <value>Mostra stato batteria</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Percent" xml:space="preserve">
-    <value>Show percent</value>
+    <value>Mostra percentuale</value>
   </data>
   <data name="Options_Overlay_General_Label_Opacity" xml:space="preserve">
-    <value>Opacity:</value>
+    <value>Opacità:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Move/resize objects:</value>
+    <value>Muovi/ridimensiona oggetti:</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>Reset</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Reset positions:</value>
+    <value>Reset posizioni:</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
-    <value>Unlock overlay</value>
+    <value>Sblocca overlay</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Warning" xml:space="preserve">
-    <value>Warning:</value>
+    <value>Attenzione:</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Freezing" xml:space="preserve">
-    <value>May cause the cursor to freeze occasionally</value>
+    <value>Il cursore potrebbe boccarsi</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
-    <value>Force on (don't use this unless you need to)</value>
+    <value>Forza (non usare se non necesasrio)</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Features" xml:space="preserve">
-    <value>Features:</value>
+    <value>Caratteristiche:</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_FriendsList" xml:space="preserve">
-    <value>Hide deck when friendslist is open</value>
+    <value>Nascondi mazzo quando la lista amici è aperta</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBoxSecrets" xml:space="preserve">
-    <value>Click secrets to gray out</value>
+    <value>Clicca sui segreti per disabilitarli</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>NOTE: May not work correctly if &amp;quot;options &gt; overlay &gt; general &gt; automatically gray out secrets&amp;quot; is enabled.</value>
+    <value>NOTA: Potrebbe non funzionare correttamente se la disabilitazione dei segreti è automatica.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
-    <value>Enabled</value>
+    <value>Abilitato</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Disabled" xml:space="preserve">
-    <value>Disabled</value>
+    <value>Disabilitato</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_SameScaling" xml:space="preserve">
-    <value>Use same scaling for player/opponent</value>
+    <value>Usa scalatura per giocatore/avversario</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Scaling" xml:space="preserve">
-    <value>Scaling:</value>
+    <value>Scalatura:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Opacity" xml:space="preserve">
-    <value>Opacity:</value>
+    <value>Opacità:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_SecretScaling" xml:space="preserve">
-    <value>Secret scaling:</value>
+    <value>Scalatura segreti:</value>
   </data>
   <data name="Options_Overlay_Opponent_LabelSecretOpacity" xml:space="preserve">
-    <value>Secret opacity:</value>
+    <value>Opacità segreti:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
-    <value>Show C'Thun counter:</value>
+    <value>Mostra il contatore di C'Thun:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>Show spell counter:</value>
+    <value>Mostra il contatore magia:</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
-    <value>Show board attack counter</value>
+    <value>Mostra il contatore di attacco in campo</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Center deck vertically</value>
+    <value>Centra mazzo verticalmente</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CreatedCards" xml:space="preserve">
-    <value>Include created cards</value>
+    <value>Includi le carte create</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_DiscardedCards" xml:space="preserve">
-    <value>Highlight discarded from deck</value>
+    <value>Evidenzia le carte scartate dal mazzo</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_SameScaling" xml:space="preserve">
-    <value>Use same scaling for player/opponent</value>
+    <value>Usa stessa scalatura per giocatore/avverario</value>
   </data>
   <data name="Options_Overlay_Player_Label_Scaling" xml:space="preserve">
-    <value>Scaling:</value>
+    <value>Scalatura:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Opacity" xml:space="preserve">
-    <value>Opacity:</value>
+    <value>Opacità:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Cthun" xml:space="preserve">
-    <value>Show C'Thun counter:</value>
+    <value>Mostra il contatore di C'Thun:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>Show spell counter:</value>
+    <value>Mostra il contatore magia:</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
-    <value>Show board attack counter</value>
+    <value>Mostra il contatore di attacco in campo</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Center deck vertically</value>
+    <value>Centra mazzo verticalmente</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightHand" xml:space="preserve">
-    <value>Highlight cards in hand</value>
+    <value>Evidenzia le carte in mano</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightDrawn" xml:space="preserve">
-    <value>Highlight last drawn card</value>
+    <value>Evidenzia l'ultima carta pescata</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_RemoveZero" xml:space="preserve">
-    <value>Remove cards if none remaining</value>
+    <value>Remuovi le carte se non ne rimangono</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_IncludeCreated" xml:space="preserve">
-    <value>Include cards created in hand (e.g. The Coin)</value>
+    <value>Includi le carte create nella mano (es la moneta)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>Show capturable overlay window</value>
+    <value>Mostra la finestra di cattura</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>Disable card opacity transitions (recommended)</value>
+    <value>Disabilita effetto transizione opacità carta (recommandato)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
-    <value>Background:</value>
+    <value>Sfondo:</value>
   </data>
   <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
     <value>This will add a chroma-key-able copy of the overlay behind your Hearthstone window.</value>
